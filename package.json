@@ -1,0 +1,30 @@
+{
+  "name": "ai-agent-website-cloner",
+  "version": "1.0.0",
+  "description": "AI Agent CLI Tool for cloning and generating professional websites",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"No tests configured\""
+  },
+  "keywords": [
+    "AI",
+    "agent",
+    "CLI",
+    "website",
+    "generator",
+    "Gemini",
+    "chatbot"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.16.0",
+    "chalk": "^5.6.2",
+    "dotenv": "^17.4.2",
+    "ora": "^9.4.0"
+  }
+}
