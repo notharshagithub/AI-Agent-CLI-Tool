@@ -327,22 +327,7 @@ cat .env
 - **File Size:** ~40-50 KB per generated HTML file
 - **Browser Compatibility:** Chrome, Firefox, Safari, Edge (all modern versions)
 
-## Security Notes
 
-⚠️ **Important:**
-- Never commit `.env` file to git (included in `.gitignore`)
-- Keep your API key private
-- Don't share your `.env` file with others
-- The key provided in docs is sample; get your own from Google
-
-## Project Statistics
-
-- **Lines of Code:** ~1000+
-- **CSS Properties:** 200+
-- **JavaScript Functions:** 15+
-- **Supported Templates:** 2+ (Scaler, Generic)
-- **Tool Functions:** 3
-- **Responsive Breakpoints:** 2 (tablet, mobile)
 
 ## Future Enhancements
 
@@ -359,32 +344,6 @@ Potential improvements for future versions:
 - [ ] Authentication boilerplate
 - [ ] Analytics integration
 
-## Submission Information
-
-### GitHub Repository
-- Make your repo public
-- Include this README
-- Add `.gitignore` for sensitive files
-- Include sample generated HTML files (optional)
-
-### YouTube Demo Video (2-3 minutes)
-1. Show CLI starting up
-2. Run "clone scaler" command
-3. Show the agent reasoning loop in action
-4. Display the generated HTML file opening in browser
-5. Show responsive design (resize browser)
-6. Demonstrate creating a custom website
-7. Showcase CSS animations and interactivity
-
-### Marking Criteria
-
-| Criterion | Points | Status |
-|-----------|--------|--------|
-| GitHub Repository | 2 | ✅ Complete |
-| YouTube Demo | 2 | 🎥 Required |
-| Agent Loop & Reasoning | 2 | ✅ Implemented |
-| Website Quality | 2 | ✅ Professional |
-| Code Quality & Docs | 2 | ✅ Complete |
 
 ## Learning Outcomes
 
